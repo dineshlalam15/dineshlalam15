@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dinesh 
-- 👀 I’m interested Programming 
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on part time internships in software engineering domain. 
+- 📫 You can reach me on dineshlalam15@gmail.com
 
 <!---
 dineshlalam15/dineshlalam15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
