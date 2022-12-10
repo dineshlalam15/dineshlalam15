@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Dinesh 
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on part time internships in software engineering domain. 
-- 📫 You can reach me on dineshlalam15@gmail.com
+Hola! 
+I'm Dinesh. I'm an Undergraduate at Indian Institute of Enginnering Science and Technology, Shibpur. 
+My primary programming language is Java. 
+I do practice problems on LeetCode -> https://leetcode.com/dinesh_lalam/
+I'm curently learning Javascript (a newbie to web develeopment). 
+Let's Connect!
 
 <!---
 dineshlalam15/dineshlalam15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
