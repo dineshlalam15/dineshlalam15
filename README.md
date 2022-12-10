@@ -1,7 +1,7 @@
-Hola! 
+Hola!
 I'm Dinesh. I'm an Undergraduate at Indian Institute of Enginnering Science and Technology, Shibpur. 
 My primary programming language is Java. 
-I do practice problems on LeetCode -> https://leetcode.com/dinesh_lalam/
+I do practice problems on LeetCode (https://leetcode.com/dinesh_lalam/).
 I'm curently learning Javascript (a newbie to web develeopment). 
 Let's Connect!
 
