@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/dineshlalam15" target="blank"><img src="https://img.shields.io/twitter/follow/dineshlalam15?logo=twitter&style=for-the-badge" alt="dineshlalam15" /></a> </p>
 
+- 🚀 I'm here to explore **OPEN SOURCE**
+
+- 🌱 I’m currently learning **Backend Development using Spring framework**
+
 - 👨‍💻 I Practice problems on **LeetCode.**
 
-- 🌱 I’m currently learning **SQL, Spring Framework**
-
-- 📝 I regularly write articles on [https://hashnode.com/@dineshlalam15](https://hashnode.com/@dineshlalam15)
-
-- 💬 Ask me about **Java and Problem Solving.**
+- 📝 I've recently started writing blogs on [Hashnode](https://hashnode.com/@dineshlalam15)
 
 - 📫 Reach me via **dineshlalam15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rcJLF1qnhIybqoKFigC7sV_LIihKNLSr/view?usp=share_link](https://drive.google.com/file/d/1rcJLF1qnhIybqoKFigC7sV_LIihKNLSr/view?usp=share_link)
+- 📄 Know about my experiences [Dinesh Lalam - Resume](https://drive.google.com/file/d/1rcJLF1qnhIybqoKFigC7sV_LIihKNLSr/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
