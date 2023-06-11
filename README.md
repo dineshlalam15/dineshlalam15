@@ -1,13 +1,12 @@
 <h1 align="center">Hola Dev's👋, Dinesh Lalam here :)</h1>
-<h3 align="center">Upcoming Advance Application Engineer Intern @ Accenture</h3>
+<h3 align="center">Advance Application Engineer Intern @ Accenture</h3>
 <br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshlalam15&label=Profile%20views&color=0e75b6&style=flat" alt="dineshlalam15" /> </p>
 <br>
 
 - 🚀 I'm here to explore **OPEN SOURCE**
-- 🌱 I’m currently learning **Backend Development using Spring framework**\
+- 🌱 I’m currently learning **Devops**\
 - 👨‍💻 I do practice problems on **LeetCode.**
-- 📝 I've recently started writing blogs on [Hashnode](https://hashnode.com/@dineshlalam15)
 - 📫 Reach me via **dineshlalam15@gmail.com**
 - 📄 Know about my experiences [Dinesh Lalam - Resume](https://drive.google.com/file/d/1rcJLF1qnhIybqoKFigC7sV_LIihKNLSr/view?usp=share_link)
 <h3 align="left">Connect with me on </h3>
