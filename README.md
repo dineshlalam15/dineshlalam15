@@ -5,7 +5,7 @@
 <br>
 
 - 🚀 I'm here to explore **OPEN SOURCE**
-- 🌱 I’m currently learning **Devops**\
+- 🌱 I’m currently learning **Devops**
 - 👨‍💻 I do practice problems on **LeetCode.**
 - 📫 Reach me via **dineshlalam15@gmail.com**
 - 📄 Know about my experiences [Dinesh Lalam - Resume](https://drive.google.com/file/d/1rcJLF1qnhIybqoKFigC7sV_LIihKNLSr/view?usp=share_link)
