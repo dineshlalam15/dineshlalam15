@@ -1,4 +1,4 @@
-<h1 align="center">Hola Dev's👋, Dinesh Lalam here :)</h1>
+<h1 align="center">Hola Dev's👋, Dinesh here :)</h1>
 <h3 align="center">Advance Application Engineer Intern @ Accenture</h3>
 <br> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshlalam15&label=Profile%20views&color=0e75b6&style=flat" alt="dineshlalam15" /> </p>
