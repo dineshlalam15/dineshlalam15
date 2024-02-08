@@ -2,7 +2,7 @@
 <h6 align="center"> Undergraduate at IIEST Shibpur </h6>
 
 🚀 I'm here to explore **Open Source** <br>
-🌱 A **MERN** stack newbie :) <br>
+🌱 Learning Java :) <br>
 📫 Reach me on
 
 [![Gmail Badge](https://img.shields.io/badge/-dineshlalam15@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshlalam15@gmail.com)](mailto:dineshlalam15@gmail.com)
