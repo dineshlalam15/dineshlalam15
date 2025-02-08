@@ -1,7 +1,7 @@
 <h1 align="center"> Dinesh Kumar Lalam </h1>
-<h6 align="center"> Undergraduate at IIEST Shibpur </h6>
+<h6 align="center"> Graduated from IIEST Shibpur </h6>
 
-🏇 Learning Node.js :) <br>
+🏇 Java | Spring boot <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-dineshlalam15@gmail.com-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshlalam15@gmail.com)](mailto:dineshlalam15@gmail.com)
 [![X Badge](https://img.shields.io/badge/-dineshlalam15-black?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/dineshlalam15/)](https://twitter.com/dineshlalam15)
